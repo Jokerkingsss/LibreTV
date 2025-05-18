@@ -112,6 +112,7 @@ const API_SITES = {
     hanime: {
         api:'https://hanime1.me',
         name: 'H漫资源'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
